@@ -15,7 +15,7 @@ const Testimonial = () => {
                         {/* Testimonial 1 */}
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="../../../young-woman-having-brow-color-added-her-eyebrows.jpg" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://www.shutterstock.com/image-photo/smiling-businesswoman-looking-camera-webcam-make-1302585136" />
                                 <p className="leading-relaxed">Overall, my shopping experience here has been fantastic. I highly recommend this e-commerce site to anyone looking for quality products and excellent service."</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Nancy Yager</h2>
